@@ -99,7 +99,7 @@ img {
 }
 
 .info-content-item:hover {
-    color: #7fa5d1;
+    color: #aaaaaa;
 }
 
 .copyright{
@@ -154,7 +154,7 @@ footer .secret {
 footer .development {
     position: relative;
 
-    color: #9a88b3;
+    color: rgb(72, 53, 97) 33, 63);
     font-weight: 600;
 
     text-decoration: none;
@@ -171,7 +171,7 @@ footer .development::after {
     width: 103%;
     height: 2px;
 
-    background: #9a88b3;
+    background: #342c41;
 
     transition: .3s;
 }
